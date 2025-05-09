@@ -88,31 +88,31 @@ export default {
           position: { lat: -8.0510, lng: -34.8810 },
           title: "Cozinha Solidária 3",
           description: "Café da manhã: Quarta e Terça: ",
-          image: "hhttps://media.discordapp.net/attachments/1351620762502696992/1370486005173583955/ChatGPT_Image_9_de_mai._de_2025_16_41_56.png?ex=681fac0e&is=681e5a8e&hm=2d4b5d5e6601196798a3a87ccf1a264ccc04162e37d3bfda737269c50ea80c14&=&format=webp&quality=lossless&width=1230&height=820",
+          image: "https://media.discordapp.net/attachments/1351620762502696992/1370486005173583955/ChatGPT_Image_9_de_mai._de_2025_16_41_56.png?ex=681fac0e&is=681e5a8e&hm=2d4b5d5e6601196798a3a87ccf1a264ccc04162e37d3bfda737269c50ea80c14&=&format=webp&quality=lossless&width=1230&height=820",
           maxCapacity: 70, // kg
           occupiedCapacity: 35, // kg          
         },
         {
           position: { lat: -8.0530, lng: -34.8820 },
           title: "Grupos voluntários",
-          description: "BBbox para lixo eletrônico (lâmpadas LED, discos rígidos, etc.)",
-          image: "https://www.nucleodoconhecimento.com.br/wp-content/uploads/2020/04/lixeiras-inteligentes.jpg",
+          description: "Jantar: Quinta as 18:00",
+          image: "https://sdmntprnorthcentralus.oaiusercontent.com/files/00000000-2df4-622f-9845-b6354321eeab/raw?se=2025-05-09T23%3A26%3A05Z&sp=r&sv=2024-08-04&sr=b&scid=00000000-0000-0000-0000-000000000000&skoid=e9d2f8b1-028a-4cff-8eb1-d0e66fbefcca&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-05-08T23%3A28%3A36Z&ske=2025-05-09T23%3A28%3A36Z&sks=b&skv=2024-08-04&sig=/8sfGdV3rCJnaFw09QBzbZsTFMJNWV5c4Vojpui3Bt0%3D",
           maxCapacity: 90, // kg
           occupiedCapacity: 40, // kg
         },
         {
           position: { lat: -8.0540, lng: -34.8830 },
           title: "grupos voluntários 2",
-          description: "BBbox para lixo eletrônico (placas-mãe, fontes, etc.)",
-          image: "https://lh4.googleusercontent.com/proxy/vr9YIOMpEgucYNEnNLw1Fi5PUngB7lsYU37t54dMGMDB_SeyoRLIEEZcp33nuY4YlFhTjwEqfvqQfRDfowF_uxMdVIVnBQ1APo8vGbGFvivmIwrxUbR9tJUKFc-0S2TbqudiCyiFy3lf3v1UKoA",
+          description: "café da manha: Segunda as 8:00",
+          image: "https://sdmntprnorthcentralus.oaiusercontent.com/files/00000000-2df4-622f-9845-b6354321eeab/raw?se=2025-05-09T23%3A26%3A05Z&sp=r&sv=2024-08-04&sr=b&scid=00000000-0000-0000-0000-000000000000&skoid=e9d2f8b1-028a-4cff-8eb1-d0e66fbefcca&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-05-08T23%3A28%3A36Z&ske=2025-05-09T23%3A28%3A36Z&sks=b&skv=2024-08-04&sig=/8sfGdV3rCJnaFw09QBzbZsTFMJNWV5c4Vojpui3Bt0%3D",
           maxCapacity: 100, // kg
           occupiedCapacity: 60, // kg         
         },
         {
           position: { lat: -8.0550, lng: -34.8840 },
           title: "grupos voluntários 3",
-          description: "BBbox para lixo eletrônico (bocais de lâmpadas, fios, etc.)",
-          image: "https://www.nucleodoconhecimento.com.br/wp-content/uploads/2020/04/lixeiras-inteligentes.jpg",
+          description: "lanche: Quarta as 16:00",
+          image: "https://sdmntprnorthcentralus.oaiusercontent.com/files/00000000-2df4-622f-9845-b6354321eeab/raw?se=2025-05-09T23%3A26%3A05Z&sp=r&sv=2024-08-04&sr=b&scid=00000000-0000-0000-0000-000000000000&skoid=e9d2f8b1-028a-4cff-8eb1-d0e66fbefcca&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-05-08T23%3A28%3A36Z&ske=2025-05-09T23%3A28%3A36Z&sks=b&skv=2024-08-04&sig=/8sfGdV3rCJnaFw09QBzbZsTFMJNWV5c4Vojpui3Bt0%3D",
           maxCapacity: 110, // kg
           occupiedCapacity: 55, // kg
         }

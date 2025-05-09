@@ -1,6 +1,6 @@
 <template>
     <v-app-bar app color="primary" dark>
-      <v-toolbar-title class="text-h6">BBox</v-toolbar-title>
+      <v-toolbar-title><img height=150 class="mt-2" src="./assets/logo1.webp" alt="logo"></v-toolbar-title>
       <v-spacer></v-spacer>
       <v-btn text @click="$emit('navigate', 'map')">Minha Caixa</v-btn>
       <v-btn text @click="$emit('navigate', 'ranking')">Ranking</v-btn>
