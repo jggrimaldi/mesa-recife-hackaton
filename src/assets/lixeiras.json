@@ -1,0 +1,123 @@
+[
+    {
+      "position": { "lat": -8.0475, "lng": -34.8769 },
+      "title": "Lixeira 1",
+      "description": "Lixeira para lixo eletrônico (celulares, baterias, etc.)",
+      "image": "https://via.placeholder.com/150",
+      "capacity": { "max": 100, "occupied": 45 },
+      "contents": [
+        "Baterias de celular",
+        "Carregadores quebrados",
+        "Teclados antigos"
+      ]
+    },
+    {
+      "position": { "lat": -8.0480, "lng": -34.8775 },
+      "title": "Lixeira 2",
+      "description": "Lixeira para lixo eletrônico (computadores, cabos, etc.)",
+      "image": "https://via.placeholder.com/150",
+      "capacity": { "max": 150, "occupied": 85 },
+      "contents": [
+        "Monitores quebrados",
+        "Cabos de energia",
+        "Placas de circuito"
+      ]
+    },
+    {
+      "position": { "lat": -8.0485, "lng": -34.8780 },
+      "title": "Lixeira 3",
+      "description": "Lixeira para lixo eletrônico (smartphones, fones de ouvido, etc.)",
+      "image": "https://via.placeholder.com/150",
+      "capacity": { "max": 120, "occupied": 60 },
+      "contents": [
+        "Smartphones quebrados",
+        "Fones de ouvido antigos",
+        "Carregadores de smartphone"
+      ]
+    },
+    {
+      "position": { "lat": -8.0490, "lng": -34.8785 },
+      "title": "Lixeira 4",
+      "description": "Lixeira para lixo eletrônico (baterias, pilhas, etc.)",
+      "image": "https://via.placeholder.com/150",
+      "capacity": { "max": 100, "occupied": 30 },
+      "contents": [
+        "Pilhas recarregáveis",
+        "Baterias de laptops",
+        "Carregadores de câmeras"
+      ]
+    },
+    {
+      "position": { "lat": -8.0495, "lng": -34.8790 },
+      "title": "Lixeira 5",
+      "description": "Lixeira para lixo eletrônico (impressoras, cartuchos, etc.)",
+      "image": "https://via.placeholder.com/150",
+      "capacity": { "max": 200, "occupied": 120 },
+      "contents": [
+        "Impressoras quebradas",
+        "Cartuchos de tinta",
+        "Fitas de impressão"
+      ]
+    },
+    {
+      "position": { "lat": -8.0500, "lng": -34.8795 },
+      "title": "Lixeira 6",
+      "description": "Lixeira para lixo eletrônico (televisores, monitores, etc.)",
+      "image": "https://via.placeholder.com/150",
+      "capacity": { "max": 250, "occupied": 150 },
+      "contents": [
+        "Televisores quebrados",
+        "Monitores LCD antigos",
+        "Placas de TV"
+      ]
+    },
+    {
+      "position": { "lat": -8.0505, "lng": -34.8800 },
+      "title": "Lixeira 7",
+      "description": "Lixeira para lixo eletrônico (mouses, teclados, etc.)",
+      "image": "https://via.placeholder.com/150",
+      "capacity": { "max": 80, "occupied": 50 },
+      "contents": [
+        "Mouses quebrados",
+        "Teclados velhos",
+        "Fones de ouvido danificados"
+      ]
+    },
+    {
+      "position": { "lat": -8.0510, "lng": -34.8805 },
+      "title": "Lixeira 8",
+      "description": "Lixeira para lixo eletrônico (caixas de som, carregadores, etc.)",
+      "image": "https://via.placeholder.com/150",
+      "capacity": { "max": 100, "occupied": 70 },
+      "contents": [
+        "Caixas de som quebradas",
+        "Carregadores de celulares",
+        "Cabo de áudio"
+      ]
+    },
+    {
+      "position": { "lat": -8.0515, "lng": -34.8810 },
+      "title": "Lixeira 9",
+      "description": "Lixeira para lixo eletrônico (câmeras, câmeras de segurança, etc.)",
+      "image": "https://via.placeholder.com/150",
+      "capacity": { "max": 150, "occupied": 100 },
+      "contents": [
+        "Câmeras de segurança antigas",
+        "Equipamentos de fotografia quebrados",
+        "Lentes de câmeras"
+      ]
+    },
+    {
+      "position": { "lat": -8.0520, "lng": -34.8815 },
+      "title": "Lixeira 10",
+      "description": "Lixeira para lixo eletrônico (celulares, tablets, etc.)",
+      "image": "https://via.placeholder.com/150",
+      "capacity": { "max": 100, "occupied": 60 },
+      "contents": [
+        "Tablets quebrados",
+        "Celulares danificados",
+        "Baterias de tablets"
+      ]
+    }
+  ]
+  
