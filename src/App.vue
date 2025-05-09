@@ -2,7 +2,7 @@
   <v-app>
     <!-- Barra de Aplicação -->
     <v-app-bar app color="white " dark>
-      <v-toolbar-title><img height=150 class="mt-2" src="./assets/logo1.webp" alt="logo"></v-toolbar-title>
+      <v-toolbar-title><img height=150 class="mt-2" src="https://cdn.discordapp.com/attachments/1351620762502696992/1370408013801853010/mesa-recife-removebg-preview.png?ex=681f636b&is=681e11eb&hm=c5c140c036bada7492913c012d680563f5f5221c6bd343cb3786d91d3702951d&format=webp&quality=lossless&width=625&height=625" alt="logo"></v-toolbar-title>
       <v-spacer></v-spacer>
 
       <v-btn v-show="$vuetify.breakpoint.mdAndUp" color="black" text @click="currentSection = 'minha-caixa'">Pontos de Descarte</v-btn>
