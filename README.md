@@ -179,6 +179,9 @@ Validação do MVP em uma feira pública
 
 #### Essa solução alia sustentabilidade, inclusão social e tecnologia acessível para resolver um problema crítico com potencial de alto impacto local e replicabilidade nacional.
 
+LINK para os slides:
+https://drive.google.com/drive/u/0/folders/1Y9WL80BE4NJex_eO4PRI-uZYAaQTwtQE
+
 
 
 
